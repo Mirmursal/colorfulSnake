@@ -1,0 +1,11 @@
+body{
+    overflow: hidden;
+}
+.dynamicDiv{
+   width:80px;
+   height: 80px;
+   border-radius: 100%;
+   background-color: blueviolet;
+   position: absolute;
+   transition: all ease 0.5s;
+}
